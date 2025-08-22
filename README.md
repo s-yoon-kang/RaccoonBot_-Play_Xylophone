@@ -56,23 +56,30 @@
 <br><br>
 
 ### 세팅
-- RaccoonBot에 실로폰용 말단 장치를 연결한 후 코드를 실행해 **빈칸**으로 두고 **확인**을 누릅니다.
+- RaccoonBot의 **대시보드**를 켜 **각도 제어 모드로 변경합니다.
 
   <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/6e493534-edd2-477e-9397-18614ac4790a" />
 
 
 <br><br>
 
-- RaccoonBot의 **실로폰 연주 준비 자세**에 맞춰 **말단 장치 끝** 부분이 실로폰의 **가운데 건반 바깥쪽**에 오도록 배치합니다.
+- RaccoonBot의 각도를 위에서부터 **21, -65, -52, 0**으로 설정하여 **실로폰 연주 준비 자세**로 이동합니다.
 
   <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/73220c2d-ced2-4b4c-8178-90f19193a4b0" />
 
 
 <br><br>
 
-- 이후 RaccoonBot의 **GUI**를 켜 건반 별 **Joint 1번의 각도**를 확인하고 기록합니다.
+- RaccoonBot의 **실로폰 연주 준비 자세**에 맞춰 **말단 장치 끝** 부분이 실로폰의 **가운데 건반 바깥쪽**에 오도록 배치합니다.
+  
+  <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/12c8777d-20ad-4e7d-983b-cd4033817549" />
 
-  <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/12c8777d-20ad-4e7d-983b-cd4033817549" /> <img width="472" height="219" alt="Image" src="https://github.com/user-attachments/assets/02a18a92-bdf9-423a-80f0-47903d1bed77" />
+
+<br><br>
+
+- 이후 RaccoonBot의 **말단 장치 끝** 부분을 건반마다 위치시키고 **Joint 1번의 각도**를 확인하고 기록합니다.
+
+  <img width="764" height="218" alt="Image" src="https://github.com/user-attachments/assets/8f6145cb-52f2-431c-8cac-0dfb8f1fadff" />
 
 
 <br><br>
