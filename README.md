@@ -26,52 +26,19 @@
 
 
 # 예제 설명
-- 사용자가 코드에 반복 타이핑할 문장을 **영어**로 **["문장"]** 과 같이 입력합니다. 
+- 사용자가 코드를 실행해 **미리 작성된 악보** 또는 **새롭게 작성한 악보**를 선택합니다.
 
   <img width="569" height="165" alt="Image" src="https://github.com/user-attachments/assets/78056e0e-83d0-4392-a9c0-40b78b0fce89" />
 
 
 <br><br>
 
-- 여러 문장의 경우 다음과 같이 **["문장 1", "문장 2"]** 로 나눠서 작성합니다.
+- RaccoonBot이 악보에 맞춰 이동하여 **건반을 타격**하며 실로폰을 연주합니다.
 
   <img width="715" height="166" alt="Image" src="https://github.com/user-attachments/assets/237277ba-68a3-42e8-8a9b-6d395765a971" />
 
 
 <br><br>
-
-- 코드를 실행하면 라쿤이 타이핑 자세로 준비한 후 로그 출력과 함께 타이핑을 시작합니다.
-
-  <img width="534" height="127" alt="Image" src="https://github.com/user-attachments/assets/34250add-1295-4f03-a9b1-9cd1ad9e8a80" />
-
-
-<br><br>
-
-- 대/소문자는 **Caps Lock 토글**로 제어하여 입력합니다.
-
-  <img width="602" height="150" alt="Image" src="https://github.com/user-attachments/assets/73b41e4c-7390-4573-9e8a-c1aa441eb596" />
-
-
-<br><br>
-
-- 잘못된 키 입력을 실시간으로 감지하며 **오동작 시 해당 단어를 건너뛰고 Enter 후 다음 단어로 진행**합니다.
-
-  <img width="668" height="76" alt="Image" src="https://github.com/user-attachments/assets/589bf472-e314-411e-bfb2-37913c58b777" />
-
-
-<br><br>
-
-동작에 따른 소리는 다음과 같습니다.
-
-<br>
-
-- 타이핑을 할 준비가 되었다면 **BEEP** 소리
-- 잘못된 키 입력시 **ENGINE** 소리
-- 타이핑을 완료하면 **GOOD JOB** 소리
-
-
-
-<br>
 
 ---
 
@@ -79,15 +46,15 @@
 
 
 # 준비물 및 방법
+
 ### 준비물
 - RaccoonBot
-- 키보드용 말단 장치
+- 실로폰용 말단 장치, 실로폰
 - PC (Windows 권장)
-- 키보드 (Coms 블루투스 키보드(미니) V3.0 또는 RaccoonBot이 모두 상호작용 가능한 크기)
-- Python 3.9+
-- 패키지: `roboid`, `threading`, `keyboard`, `ctypes`, `time`
+- Block Composer, Raccoon_Play_Xylophone.block 파일
 
 <br><br>
+
 ### 세팅
 - RaccoonBot과 키보드를 **5cm** 간격을 두고 **마주보게** 배치해주세요.
 
