@@ -56,38 +56,48 @@
 <br><br>
 
 ### 세팅
-- RaccoonBot과 키보드를 **5cm** 간격을 두고 **마주보게** 배치해주세요.
+- RaccoonBot에 실로폰용 말단 장치를 연결한 후 코드를 실행해 **빈칸**으로 두고 **확인**을 누릅니다.
 
   <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/6e493534-edd2-477e-9397-18614ac4790a" />
 
 
 <br><br>
 
-- **Joint 4**가 **수직**으로 키의 정중앙을 누를 수 있게 위치를 조절하며 **key_mapping** 함수를 수정합니다.
+- RaccoonBot의 **실로폰 연주 준비 자세**에 맞춰 **말단 장치 끝** 부분이 실로폰의 **가운데 건반 바깥쪽**에 오도록 배치합니다.
 
   <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/73220c2d-ced2-4b4c-8178-90f19193a4b0" />
 
 
 <br><br>
 
-- **key_mapping** 함수와 **RaccoonBot**의 **XYZ 좌표계**는 다음과 같습니다. (단위: cm)
+- 이후 RaccoonBot의 **GUI**를 켜 건반 별 **Joint 1번의 각도**를 확인하고 기록합니다.
 
   <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/12c8777d-20ad-4e7d-983b-cd4033817549" /> <img width="472" height="219" alt="Image" src="https://github.com/user-attachments/assets/02a18a92-bdf9-423a-80f0-47903d1bed77" />
 
 
 <br><br>
 
-- **Z축**의 경우 키보드를 완전히 누르는 좌표보다 **0.2cm 더 낮게** 설정합니다.
+- 기록한 **Joint 1번의 각도**를 음에 맞춰 **각도값**을 수정합니다.
 
   <img width="764" height="218" alt="Image" src="https://github.com/user-attachments/assets/8f6145cb-52f2-431c-8cac-0dfb8f1fadff" />
 
+
 <br><br>
 
-- **1 ~ 0** | **a ~ z** | **,** | **.** | **Caps lock** | **Space** | **Enter**의 좌표를 모두 수정하고 문장 입력에 차례대로 입력하며 확인합니다.
+## 악보 작성 방법
+- **시작하기():** 의 아래 **if문** 하나를 복사하여 아래 붙여넣습니다.
 
-  <img width="1520" height="360" alt="Image" src="https://github.com/user-attachments/assets/3a01331f-c1b0-402b-b966-d7c0ff4fa67c" />
+  <img width="764" height="218" alt="Image" src="https://github.com/user-attachments/assets/8f6145cb-52f2-431c-8cac-0dfb8f1fadff" />
 
-<br>
+
+<br><br>
+
+- **시작하기():** 의 아래 **if문** 하나를 복사하여 아래 붙여넣습니다.
+
+  <img width="764" height="218" alt="Image" src="https://github.com/user-attachments/assets/8f6145cb-52f2-431c-8cac-0dfb8f1fadff" />
+
+
+<br><br>
 
 ---
 
