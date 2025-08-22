@@ -2,18 +2,18 @@
 
 해당 코드는 RaccoonBot이 악보에 맞춰 실로폰을 연주하는 예제입니다.
 
-![라쿤 키보드]()
+![라쿤 실로폰]()
 
-예제에는 **잘못된 입력 감지**, **대/소문자 감지**, **키 입력 감지/재시도** 기능이 있습니다.
+예제는 **악보**, **시작 위치 이동**, **건반 타격**, **음 각도 이동** 기능으로 동작합니다.
 <br>
 
-아래 버튼을 눌러 파이썬 코드를 다운로드 받아 RaccoonBot의 동작을 확인해보세요.
+아래 버튼을 눌러 Block Composer 코드를 다운로드 받아 RaccoonBot의 동작을 확인해보세요.
 
 <br><br><br>
 
-#### [Raccoon_keyboard_Typing.py 다운로드]()
+#### [Raccoon_Play_Xylophone.block 다운로드]()
 #### [시작하기에 앞서]()
-#### [초보자를 위한 파이썬 설치 가이드](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
+#### [블록컴포저 환경 설정 가이드](https://github.com/RoboidStudioLAB/Wiki_Image/wiki/%EB%B8%94%EB%A1%9D%EC%BB%B4%ED%8F%AC%EC%A0%80-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C)
 #### [하드웨어 설명](https://github.com/RoboidStudioLAB/Wiki_Image/wiki/%EB%9D%BC%EC%BF%A4-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EC%84%A4%EB%AA%85)
 
 
