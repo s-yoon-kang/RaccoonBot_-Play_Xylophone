@@ -28,7 +28,7 @@
 # 예제 설명
 - 사용자가 코드를 실행해 **미리 작성된 악보** 또는 **새롭게 작성한 악보**를 선택합니다.
 
-  <img width="569" height="165" alt="Image" src="https://github.com/user-attachments/assets/78056e0e-83d0-4392-a9c0-40b78b0fce89" />
+  ![Image](https://github.com/user-attachments/assets/27057df5-add4-470b-b4bb-6389b5673905)
 
 
 <br><br>
@@ -56,16 +56,17 @@
 <br><br>
 
 ### 세팅
-- RaccoonBot의 **대시보드**를 켜 **각도 제어 모드로 변경합니다.
-
-  <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/6e493534-edd2-477e-9397-18614ac4790a" />
+- RaccoonBot의 **대시보드**를 켜 **각도 제어 모드**로 변경합니다.
+  
+  ![Image](https://github.com/user-attachments/assets/df8ecab3-8739-4bff-9cb5-9d45cdd1442d)
+  ![Image](https://github.com/user-attachments/assets/8b0bb1a2-43db-44fe-95b2-7d1e80c83565)
 
 
 <br><br>
 
 - RaccoonBot의 각도를 위에서부터 **21, -65, -52, 0**으로 설정하여 **실로폰 연주 준비 자세**로 이동합니다.
 
-  <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/73220c2d-ced2-4b4c-8178-90f19193a4b0" />
+  ![Image](https://github.com/user-attachments/assets/91f98b82-1757-4f7c-b0d1-4b24a3577e6a)
 
 
 <br><br>
@@ -79,7 +80,7 @@
 
 - 이후 RaccoonBot의 **말단 장치 끝** 부분을 건반마다 위치시키고 **Joint 1번의 각도**를 확인하고 기록합니다.
 
-  <img width="764" height="218" alt="Image" src="https://github.com/user-attachments/assets/8f6145cb-52f2-431c-8cac-0dfb8f1fadff" />
+  ![Image](https://github.com/user-attachments/assets/16d1d24a-2812-4023-bd61-98b164ef8a3c)
 
 
 <br><br>
@@ -94,14 +95,15 @@
 ## 악보 작성 방법
 - **시작하기():** 의 아래 **if문** 하나를 복사하여 아래 붙여넣습니다.
 
-  <img width="764" height="218" alt="Image" src="https://github.com/user-attachments/assets/8f6145cb-52f2-431c-8cac-0dfb8f1fadff" />
+  ![Image](https://github.com/user-attachments/assets/d9966f64-3c63-4340-bbac-873243735cf7)
 
 
 <br><br>
 
 - **song = "노래제목"** 을 수정하고 아래 축소된 블록을 **확장**하여 악보를 작성합니다.
 
-  <img width="764" height="218" alt="Image" src="https://github.com/user-attachments/assets/8f6145cb-52f2-431c-8cac-0dfb8f1fadff" />
+  ![Image](https://github.com/user-attachments/assets/7f5683d2-3afd-40a4-9aa1-29092f3e7801)
+  ![Image](https://github.com/user-attachments/assets/2f8c9861-eac3-4434-82b7-9a8248786fdd)
 
 
 <br><br>
