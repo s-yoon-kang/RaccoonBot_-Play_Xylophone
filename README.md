@@ -67,13 +67,14 @@
 - RaccoonBot의 각도를 위에서부터 **21, -65, -52, 0**으로 설정하여 **실로폰 연주 준비 자세**로 이동합니다.
 
   ![Image](https://github.com/user-attachments/assets/91f98b82-1757-4f7c-b0d1-4b24a3577e6a)
-
+  ![Image](https://github.com/user-attachments/assets/628d7508-d10e-4e88-a380-71196ccd79e4)
+  
 
 <br><br>
 
 - RaccoonBot의 **실로폰 연주 준비 자세**에 맞춰 **말단 장치 끝** 부분이 실로폰의 **가운데 건반 바깥쪽**에 오도록 배치합니다.
   
-  <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/12c8777d-20ad-4e7d-983b-cd4033817549" />
+  ![Image](https://github.com/user-attachments/assets/db89b5be-19da-439a-8ca4-6eed01d5c42d)
 
 
 <br><br>
@@ -87,7 +88,7 @@
 
 - 기록한 **Joint 1번의 각도**를 음에 맞춰 **각도값**을 수정합니다.
 
-  <img width="764" height="218" alt="Image" src="https://github.com/user-attachments/assets/8f6145cb-52f2-431c-8cac-0dfb8f1fadff" />
+  ![Image](https://github.com/user-attachments/assets/50ffca25-58e8-4798-9315-8fd4f1973e63)
 
 
 <br><br>
