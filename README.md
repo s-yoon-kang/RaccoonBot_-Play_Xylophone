@@ -81,6 +81,7 @@
 
 - 이후 RaccoonBot의 **말단 장치 끝** 부분을 건반마다 위치시키고 **Joint 1번의 각도**를 확인하고 기록합니다.
 
+  ![Image](https://github.com/user-attachments/assets/da25ee2b-a504-4808-9dac-b28de3ac115a)
   ![Image](https://github.com/user-attachments/assets/16d1d24a-2812-4023-bd61-98b164ef8a3c)
 
 
