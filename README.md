@@ -74,7 +74,7 @@
 
 - RaccoonBot의 **실로폰 연주 준비 자세**에 맞춰 **말단 장치 끝** 부분이 실로폰의 **가운데 건반 바깥쪽**에 오도록 배치합니다.
   
-  ![Image](https://github.com/user-attachments/assets/db89b5be-19da-439a-8ca4-6eed01d5c42d)
+  ![Image](https://github.com/user-attachments/assets/f03301e8-6af5-42c8-a1f1-5427d3efa00b)
 
 
 <br><br>
