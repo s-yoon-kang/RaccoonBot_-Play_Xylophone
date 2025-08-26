@@ -7,7 +7,7 @@
 
 #### [하드웨어 설명](https://github.com/RoboidStudioLAB/Wiki_Image/wiki/%EB%9D%BC%EC%BF%A4-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EC%84%A4%EB%AA%85)
 
-#### [블록 컴포저 바로가기](https://rbmate.com/BlockComposer/)
+#### [블록 컴포저 바로가기](https://robomationlab.com/BlockComposer/)
   
 #### [로보메이션 깃허브 바로가기](https://github.com/RobomationLAB)
 
@@ -48,29 +48,27 @@ Raccoon이 악보에 맞춰 실로폰을 연주하는 예제입니다.
 ## 2. 초기 환경 구성
 - Raccoon의 **대시보드**를 켜 **각도 제어 모드**로 변경합니다.
 
-  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/df8ecab3-8739-4bff-9cb5-9d45cdd1442d" />
+  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/e6b6dcd0-9015-4ae1-b4b3-5a6cdf0f05d4" />
 
-<br>
-
-  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/8b0bb1a2-43db-44fe-95b2-7d1e80c83565" />
+  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/71185a70-3517-4041-ac5c-6b6dfead9244" />
 
 
 <br><br>
 
 - RaccoonBot의 각도를 위에서부터 **21, -65, -52, 0**으로 설정하여 **실로폰 연주 준비 자세**로 이동합니다.
 
-  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/91f98b82-1757-4f7c-b0d1-4b24a3577e6a" />
-
-<br>
+  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/babe8aec-6689-4db3-8abf-859b63f23502" />
 
   <img width="500" alt="Image" src="https://github.com/user-attachments/assets/628d7508-d10e-4e88-a380-71196ccd79e4" />
 
 
 <br><br>
 
-- RaccoonBot의 **실로폰 연주 준비 자세**에 맞춰 **말단 장치 끝** 부분이 실로폰의 **가운데 건반 바깥쪽**에 오도록 배치합니다.
+- RaccoonBot의 **실로폰 연주 준비 자세**에 맞춰 **말단 장치 끝** 부분이 실로폰의 **가운데 건반 바깥쪽**에 오도록 배치하고 **대시보드**의 **모터 제어**를 끕니다.
   
   <img width="500" alt="Image" src="https://github.com/user-attachments/assets/f03301e8-6af5-42c8-a1f1-5427d3efa00b" />
+
+  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/4c887ff5-0fdf-4880-b451-73520da4c9f6" />
 
 
 <br><br>
@@ -79,16 +77,14 @@ Raccoon이 악보에 맞춰 실로폰을 연주하는 예제입니다.
 
   ![image](https://github.com/user-attachments/assets/7c0af05e-3e12-4c50-9b51-6e42bec4b83a)
 
-<br>
-
-  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/16d1d24a-2812-4023-bd61-98b164ef8a3c" />
+  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/8f18a5e4-43cf-4aaa-96c4-7fad2e028f21" />
 
 
 <br><br>
 
 - 기록한 **Joint 1번의 각도**를 음에 맞춰 **각도값**을 수정합니다.
 
-  <img width="400" alt="Image" src="https://github.com/user-attachments/assets/50ffca25-58e8-4798-9315-8fd4f1973e63" />
+  <img width="300" alt="Image" src="https://github.com/user-attachments/assets/9293032f-a47c-4f61-8d49-6859fdb4c3f9" />
 
 
 <br><br>
@@ -139,7 +135,7 @@ Raccoon이 악보에 맞춰 실로폰을 연주하는 예제입니다.
 
 - 사용자가 코드를 실행해 **미리 작성된 악보** 또는 **새롭게 작성한 악보**를 선택합니다.
 
-  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/27057df5-add4-470b-b4bb-6389b5673905" />
+  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/1c838b95-5fe8-43f4-b8ef-57cff004b612" />
 
 
 <br><br>
