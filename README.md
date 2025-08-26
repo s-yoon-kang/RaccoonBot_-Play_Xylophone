@@ -155,8 +155,8 @@ Raccoon이 악보에 맞춰 실로폰을 연주하는 예제입니다.
 ---
 
 
-## 4. 오류 발생시 해결 방법
-- 발생 가능한 오류에 대해서 적어두는 란 입니다.
+## ~~4. 오류 발생시 해결 방법~~
+- ~~발생 가능한 오류에 대해서 적어두는 란 입니다.~~
 
 <br><br>
 
@@ -285,7 +285,7 @@ Raccoon이 악보에 맞춰 실로폰을 연주하는 예제입니다.
 <br>
 
 <details>
-<summary><b>연주 시작</b></summary>
+<summary><i>연주 시작</i></summary>
 
 <br>
 
@@ -315,7 +315,7 @@ Raccoon이 악보에 맞춰 실로폰을 연주하는 예제입니다.
 <br>
 
 <details>
-<summary><b>각도값</b></summary>
+<summary><i>각도값</i></summary>
 
 <br>
 
@@ -331,7 +331,7 @@ Raccoon이 악보에 맞춰 실로폰을 연주하는 예제입니다.
 <br>
 
 <details>
-<summary><b>시작 위치</b></summary>
+<summary><i>시작 위치</i></summary>
 
 <br>
 
@@ -348,7 +348,7 @@ Raccoon이 악보에 맞춰 실로폰을 연주하는 예제입니다.
 <br>
 
 <details>
-<summary><b>건반 타격</b></summary>
+<summary><i>건반 타격</i></summary>
 
 <br>
 
