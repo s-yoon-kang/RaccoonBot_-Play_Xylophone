@@ -374,7 +374,7 @@ Raccoon이 악보에 맞춰 실로폰을 연주하는 예제입니다.
 
 ## 7. 관련 내용
 
-[P 제어 이론](https://github.com/RoboidStudioLAB/Wiki_Image/wiki/P-%EC%A0%9C%EC%96%B4-%EC%9D%B4%EB%A1%A0)
+[P 제어 이론]([https://github.com/RoboidStudioLAB/Wiki_Image/wiki/P-%EC%A0%9C%EC%96%B4-%EC%9D%B4%EB%A1%A0](https://github.com/RoboidStudioLAB/Wiki_Image/wiki/P-%EC%A0%9C%EC%96%B4(%EB%B9%84%EB%A1%80-%EC%A0%9C%EC%96%B4)))
 
 <br>
 
